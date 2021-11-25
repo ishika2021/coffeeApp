@@ -1,0 +1,27 @@
+.priceContainer{
+    height:50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.heading1{
+    font-size: 4rem;
+    font-family: cursive;
+    margin:0;
+    font-weight: 200;
+    color:#262622;
+}
+.heading2{
+    font-size: 3rem;
+    font-family: cursive;
+    margin:0;
+    color:#CC9E59;
+    
+}
+.hotColdBtnContainer{
+    width:60%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
