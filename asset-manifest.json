@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ishika2021/coffeeShop.git/static/css/main.cc3e5136.chunk.css",
+    "main.js": "/ishika2021/coffeeShop.git/static/js/main.f8965011.chunk.js",
+    "main.js.map": "/ishika2021/coffeeShop.git/static/js/main.f8965011.chunk.js.map",
+    "runtime-main.js": "/ishika2021/coffeeShop.git/static/js/runtime-main.eb3ce9aa.js",
+    "runtime-main.js.map": "/ishika2021/coffeeShop.git/static/js/runtime-main.eb3ce9aa.js.map",
+    "static/js/2.7e24647f.chunk.js": "/ishika2021/coffeeShop.git/static/js/2.7e24647f.chunk.js",
+    "static/js/2.7e24647f.chunk.js.map": "/ishika2021/coffeeShop.git/static/js/2.7e24647f.chunk.js.map",
+    "static/js/3.540b176d.chunk.js": "/ishika2021/coffeeShop.git/static/js/3.540b176d.chunk.js",
+    "static/js/3.540b176d.chunk.js.map": "/ishika2021/coffeeShop.git/static/js/3.540b176d.chunk.js.map",
+    "index.html": "/ishika2021/coffeeShop.git/index.html",
+    "static/css/main.cc3e5136.chunk.css.map": "/ishika2021/coffeeShop.git/static/css/main.cc3e5136.chunk.css.map",
+    "static/js/2.7e24647f.chunk.js.LICENSE.txt": "/ishika2021/coffeeShop.git/static/js/2.7e24647f.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/ishika2021/coffeeShop.git/static/media/bg.314f8d88.png",
+    "static/media/blackcoffee.08714093.jpg": "/ishika2021/coffeeShop.git/static/media/blackcoffee.08714093.jpg",
+    "static/media/cappuccino.bdae2d1b.jpg": "/ishika2021/coffeeShop.git/static/media/cappuccino.bdae2d1b.jpg",
+    "static/media/coffee2.2b4114c6.jpg": "/ishika2021/coffeeShop.git/static/media/coffee2.2b4114c6.jpg",
+    "static/media/coffeeImg.b8fc1577.gif": "/ishika2021/coffeeShop.git/static/media/coffeeImg.b8fc1577.gif",
+    "static/media/filtercoffee.ae078870.jpg": "/ishika2021/coffeeShop.git/static/media/filtercoffee.ae078870.jpg",
+    "static/media/lattee.c8742b63.jpg": "/ishika2021/coffeeShop.git/static/media/lattee.c8742b63.jpg",
+    "static/media/logo.6ce24c58.svg": "/ishika2021/coffeeShop.git/static/media/logo.6ce24c58.svg",
+    "static/media/mochalatte.8f8672f8.jpg": "/ishika2021/coffeeShop.git/static/media/mochalatte.8f8672f8.jpg",
+    "static/media/sugar.dda7ac5c.png": "/ishika2021/coffeeShop.git/static/media/sugar.dda7ac5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb3ce9aa.js",
+    "static/js/2.7e24647f.chunk.js",
+    "static/css/main.cc3e5136.chunk.css",
+    "static/js/main.f8965011.chunk.js"
+  ]
+}
